@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Mateo Rico</h1>
 
 <h3 align="center">
-Ingeniería de Datos • Analítica de Datos • Cloud Computing
+Ingeniería de Datos • Analítica de Datos • Software Developer
 </h3>
 
 <p align="center">
@@ -34,13 +34,15 @@ Mi objetivo es construir soluciones que permitan transformar datos en informaci�
 - Python
 - SQL
 - JavaScript
+- HTML
+- CSS
 
 ---
 
 ## Ingeniería de Datos
 
-- Apache Spark
 - Apache Airflow
+- Apache Spark
 - RabbitMQ
 - Celery
 
@@ -60,7 +62,7 @@ Mi objetivo es construir soluciones que permitan transformar datos en informaci�
 - PostgreSQL
 - MySQL
 - MongoDB
-- Supabase
+- SQL Server
 
 ---
 
@@ -68,6 +70,7 @@ Mi objetivo es construir soluciones que permitan transformar datos en informaci�
 
 - Power BI
 - Jupyter Notebook
+- Pandas
 
 ---
 
@@ -108,7 +111,7 @@ Arquitectura distribuida desarrollada con:
 
 ### 🌐 Desarrollo Web
 
-Aplicaciones Backend y Full Stack utilizando Node.js, JavaScript y bases de datos relacionales.
+Aplicaciones Backend y Full Stack utilizando Node.js, Python y bases de datos relacionales.
 
 ---
 
@@ -153,8 +156,6 @@ Aplicaciones Backend y Full Stack utilizando Node.js, JavaScript y bases de dato
 
 💼 **LinkedIn:**  
 www.linkedin.com/in/mateo-rico
-
-🌐 **Portafolio:** *(Próximamente)*
 
 ---
 
