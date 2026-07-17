@@ -59,7 +59,7 @@ Actualmente enfoco mi crecimiento profesional en:
 <p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48"/>
+  <img src="https://skillicons.dev/icons?i=aws"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="48"/>
   <img src="https://cdn.simpleicons.org/linux/FCC624" width="48"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="48"/>
