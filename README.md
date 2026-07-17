@@ -135,6 +135,4 @@ Actualmente enfoco mi crecimiento profesional en:
   <img src="https://komarev.com/ghpvc/?username=Mateo654-sg&style=for-the-badge&color=blue"/>
 </p>
 
-<p align="center">
 ### ⭐ *"Los datos cuentan historias; la ingeniería permite escucharlas."*
-</p>
