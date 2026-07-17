@@ -1,124 +1,165 @@
-# Hi there! 👋 I'm Mateo Rico
+<h1 align="center">¡Hola! 👋 Soy Mateo Rico</h1>
+
+<h3 align="center">
+Ingeniería de Datos • Analítica de Datos • Cloud Computing
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Analyst;Future+Data+Engineer;Backend+Developer;Cloud+Enthusiast" />
+Apasionado por construir plataformas de datos escalables, automatizar procesos y transformar datos en información útil para la toma de decisiones.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Sobre mí
 
-I'm a **Software Developer** from Medellín, Colombia 🇨🇴 passionate about building scalable software, designing cloud architectures, and transforming data into valuable insights.
+Soy un apasionado por la ingeniería y analítica de datos. Disfruto diseñar arquitecturas de datos, automatizar pipelines y desarrollar soluciones escalables en la nube.
 
-Currently I'm:
+Actualmente enfoco mi crecimiento profesional en:
 
-- 🎓 Software Development student at **ITM**
-- 📊 Data Analyst trainee at **RIWI**
-- ☁️ Learning **AWS Cloud**, **Data Engineering**, and **Distributed Systems**
-- 🌱 Constantly improving my Backend and Data skills.
+- ⚙️ Ingeniería de Datos
+- 📊 Analítica de Datos
+- ☁️ Cloud Computing
+- 🔄 Automatización de procesos ETL/ELT
+- 📈 Business Intelligence
+- 🏗️ Sistemas Distribuidos
 
----
-
-## 💻 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Mi objetivo es construir soluciones que permitan transformar datos en información estratégica mediante tecnologías modernas y buenas prácticas de ingeniería.
 
 ---
 
-### Backend
+# 💻 Stack Tecnológico
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+## Lenguajes
 
----
-
-### Data Engineering
-
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+- Python
+- SQL
+- JavaScript
 
 ---
 
-### Cloud & DevOps
+## Ingeniería de Datos
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+- Apache Spark
+- Apache Airflow
+- RabbitMQ
+- Celery
 
 ---
 
-## 📈 GitHub Stats
+## Cloud & DevOps
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateo654-sg&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo654-sg&layout=compact&theme=tokyonight"/>
-
-</p>
+- AWS
+- Docker
+- Docker Compose
+- Linux
 
 ---
 
-## 🔥 Current Focus
+## Bases de Datos
 
-- Data Engineering
-- Backend Development
-- Cloud Architecture (AWS)
-- Data Analytics
-- Distributed Systems
+- PostgreSQL
+- MySQL
+- MongoDB
+- Supabase
 
 ---
 
-## 📚 Currently Learning
+## Analítica de Datos
+
+- Power BI
+- Jupyter Notebook
+
+---
+
+## Herramientas
+
+- Git
+- GitHub
+- Visual Studio Code
+- Vercel
+- Render
+
+---
+
+# 🚀 Proyectos Destacados
+
+### ☁️ Plataforma de Datos en AWS
+
+Arquitectura distribuida desarrollada con:
+
+- Apache Airflow
+- Apache Spark
+- RabbitMQ
+- Celery
+- Docker
+- AWS
+
+---
+
+### 📊 Proyectos de Analítica de Datos
+
+- SQL
+- Python
+- Power BI
+- Dashboards
+- Análisis Exploratorio de Datos
+
+---
+
+### 🌐 Desarrollo Web
+
+Aplicaciones Backend y Full Stack utilizando Node.js, JavaScript y bases de datos relacionales.
+
+---
+
+# 📚 Actualmente aprendiendo
 
 - Apache Kafka
 - Terraform
 - Kubernetes
-- CI/CD
-- Machine Learning Fundamentals
+- dbt
+- Apache Iceberg
+- GitHub Actions (CI/CD)
+- Machine Learning
+- Arquitecturas Lakehouse
 
 ---
 
-## 🎯 2026 Goals
+# 📈 Estadísticas
 
-- 🚀 Become a Data Engineer
-- ☁️ AWS Certified
-- 📊 Build scalable data pipelines
-- 🌎 Contribute to Open Source
-- 💼 Land my first international tech role
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mateo654-sg&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo654-sg&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Contact
+# 🎯 Objetivos
 
-📧 **Email:** escotiya102@gmail.com
+- 🚀 Diseñar plataformas de datos escalables.
+- ☁️ Especializarme en arquitecturas Cloud sobre AWS.
+- ⚙️ Dominar el procesamiento distribuido de datos.
+- 📊 Desarrollar soluciones analíticas para la toma de decisiones.
+- 🌎 Contribuir a proyectos Open Source relacionados con Data Engineering.
 
-💼 **LinkedIn**
-https://linkedin.com/in/mateo-rico
+---
 
-🌐 **Portfolio**
-(Coming Soon)
+# 🤝 Conecta conmigo
+
+📧 **Correo:** escotiya102@gmail.com
+
+💼 **LinkedIn:**  
+www.linkedin.com/in/mateo-rico
+
+🌐 **Portafolio:** *(Próximamente)*
 
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### *"Los datos por sí solos no generan valor; la ingeniería y el análisis son quienes los convierten en conocimiento."*
 
 </p>
