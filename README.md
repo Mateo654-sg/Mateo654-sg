@@ -89,30 +89,6 @@ Actualmente enfoco mi crecimiento profesional en:
 
 ---
 
-# 🚀 Proyectos Destacados
-
-## ☁️ Plataforma de Datos Distribuida
-
-> Arquitectura basada en AWS utilizando Apache Airflow, Apache Spark, RabbitMQ, Celery y Docker para la orquestación y procesamiento distribuido de datos.
-
----
-
-## 📊 Proyectos de Analítica de Datos
-
-- SQL
-- Python
-- Dashboards
-- Exploración y transformación de datos
-- Visualización de información
-
----
-
-## 🌐 Desarrollo Backend
-
-Aplicaciones desarrolladas con Node.js, FastAPI y bases de datos.
-
----
-
 # 📚 Actualmente aprendiendo
 
 🌱 Mi objetivo es seguir fortaleciendo mis conocimientos en:
