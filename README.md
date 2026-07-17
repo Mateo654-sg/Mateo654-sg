@@ -65,34 +65,23 @@ Actualmente enfoco mi crecimiento profesional en:
 
 ## ⚙️ Data Engineering
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
-
+<p>
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48"/>
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48"/>
+<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48"/>
+<img src="https://cdn.simpleicons.org/celery/37814A" width="48"/>
 </p>
 
 ---
 
 ## 📈 Analítica de Datos
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
+<p>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="48"/>
+<img src="https://cdn.simpleicons.org/postgresql/336791" width="48"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
 </p>
 ---
 
