@@ -35,20 +35,21 @@ Actualmente enfoco mi crecimiento profesional en:
 
 ## 🐍 Lenguajes
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
-
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="48"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="48"/>
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="48"/>
 </p>
 
 ---
 
 ## 📊 Bases de Datos
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-
+<p align="left">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48"/>
 </p>
 
 ---
@@ -57,31 +58,35 @@ Actualmente enfoco mi crecimiento profesional en:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
-
+<p align="left">
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="48"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="48"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="48"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="48"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="48"/>
+</p>
 </p>
 
 ---
 
 ## ⚙️ Data Engineering
 
-<p>
-<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48"/>
-<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48"/>
-<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48"/>
-<img src="https://cdn.simpleicons.org/celery/37814A" width="48"/>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48"/>
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48"/>
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="48"/>
+  <img src="https://cdn.simpleicons.org/celery/37814A" width="48"/>
 </p>
 
 ---
 
 ## 📈 Analítica de Datos
 
-<p>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="48"/>
-<img src="https://cdn.simpleicons.org/postgresql/336791" width="48"/>
-<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/></p>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48"/>
+</p>
 
 ---
 
