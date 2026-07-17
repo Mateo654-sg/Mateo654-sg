@@ -65,10 +65,11 @@ Actualmente enfoco mi crecimiento profesional en:
 
 ## ⚙️ Data Engineering
 
-<p>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=apacheairflow,apachespark,rabbitmq,celery"/>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
 </p>
 
 ---
