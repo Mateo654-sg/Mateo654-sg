@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Mateo Rico</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Ingeniería+de+Datos;Analítica+de+Datos;Desarrollo+de+Software;Python+%7C+SQL+%7C+Apache+Spark;Construyendo+plataformas+de+datos" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Ingeniería+de+Datos;Analítica+de+Datos;Desarrollo+de+Software;Python+%7C+SQL+%7C+AWS;Construyendo+plataformas+de+datos" />
 </p>
 
 <p align="center">
