@@ -131,14 +131,12 @@ Aplicaciones desarrolladas con Node.js, FastAPI y bases de datos.
 # 📈 Estadísticas
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateo654-sg&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo654-sg&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateo654-sg&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateo654-sg&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateo654-sg&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateo654-sg&theme=tokyonight"/>
 </p>
 
 ---
@@ -146,9 +144,9 @@ Aplicaciones desarrolladas con Node.js, FastAPI y bases de datos.
 <h2 align="center">🤝 Conecta conmigo</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mateo-rico">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/mateo-rico">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -158,13 +156,9 @@ Aplicaciones desarrolladas con Node.js, FastAPI y bases de datos.
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mateo654-sg&style=for-the-badge&color=blue"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Mateo654-sg&style=for-the-badge&color=blue"/>
 </p>
 
 <p align="center">
-
 ### ⭐ *"Los datos cuentan historias; la ingeniería permite escucharlas."*
-
 </p>
