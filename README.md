@@ -81,7 +81,7 @@ Actualmente enfoco mi crecimiento profesional en:
 <img src="https://cdn.simpleicons.org/postgresql/336791" width="48"/>
 <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
 <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48"/>
 </p>
 ---
 
