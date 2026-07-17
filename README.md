@@ -1,18 +1,25 @@
 <h1 align="center">¡Hola! 👋 Soy Mateo Rico</h1>
 
-<h3 align="center">
-Ingeniería de Datos • Analítica de Datos • Software Developer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Ingeniería+de+Datos;Analítica+de+Datos;Cloud+Computing;Python+%7C+SQL+%7C+Apache+Spark;Construyendo+plataformas+de+datos" />
+</p>
 
 <p align="center">
-Apasionado por construir plataformas de datos escalables, automatizar procesos y transformar datos en información útil para la toma de decisiones.
+
+<img src="https://img.shields.io/badge/Data%20Engineering-0052CC?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-F28C28?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-28A745?style=for-the-badge"/>
+
 </p>
 
 ---
 
 # 🚀 Sobre mí
 
-Soy un apasionado por la ingeniería y analítica de datos. Disfruto diseñar arquitecturas de datos, automatizar pipelines y desarrollar soluciones escalables en la nube.
+💡 Soy un apasionado por la **Ingeniería de Datos**, la **Analítica de Datos** y el **Desarrollo de Software**.
+
+Me motiva diseñar arquitecturas escalables, automatizar pipelines de datos y desarrollar soluciones que permitan transformar datos en información valiosa para la toma de decisiones.
 
 Actualmente enfoco mi crecimiento profesional en:
 
@@ -23,99 +30,87 @@ Actualmente enfoco mi crecimiento profesional en:
 - 📈 Business Intelligence
 - 🏗️ Sistemas Distribuidos
 
-Mi objetivo es construir soluciones que permitan transformar datos en información estratégica mediante tecnologías modernas y buenas prácticas de ingeniería.
-
 ---
 
 # 💻 Stack Tecnológico
 
-## Lenguajes
+## 🐍 Lenguajes
 
-- Python
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+
+</p>
+
+---
+
+## 📊 Bases de Datos
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github"/>
+
+</p>
+
+---
+
+## ⚙️ Data Engineering
+
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=apacheairflow,apachespark,rabbitmq,celery"/>
+
+</p>
+
+---
+
+## 📈 Analítica de Datos
+
 - SQL
-- JavaScript
-- HTML
-- CSS
-
----
-
-## Ingeniería de Datos
-
-- Apache Airflow
-- Apache Spark
-- RabbitMQ
-- Celery
-
----
-
-## Cloud & DevOps
-
-- AWS
-- Docker
-- Docker Compose
-- Linux
-
----
-
-## Bases de Datos
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQL Server
-
----
-
-## Analítica de Datos
-
+- Python
 - Power BI
 - Jupyter Notebook
 - Pandas
 
 ---
 
-## Herramientas
-
-- Git
-- GitHub
-- Visual Studio Code
-- Vercel
-- Render
-
----
-
 # 🚀 Proyectos Destacados
 
-### ☁️ Plataforma de Datos en AWS
+## ☁️ Plataforma de Datos Distribuida
 
-Arquitectura distribuida desarrollada con:
-
-- Apache Airflow
-- Apache Spark
-- RabbitMQ
-- Celery
-- Docker
-- AWS
+> Arquitectura basada en AWS utilizando Apache Airflow, Apache Spark, RabbitMQ, Celery y Docker para la orquestación y procesamiento distribuido de datos.
 
 ---
 
-### 📊 Proyectos de Analítica de Datos
+## 📊 Proyectos de Analítica de Datos
 
 - SQL
 - Python
-- Power BI
 - Dashboards
-- Análisis Exploratorio de Datos
+- Exploración y transformación de datos
+- Visualización de información
 
 ---
 
-### 🌐 Desarrollo Web
+## 🌐 Desarrollo Backend
 
-Aplicaciones Backend y Full Stack utilizando Node.js, Python y bases de datos relacionales.
+Aplicaciones desarrolladas con Node.js, FastAPI y bases de datos.
 
 ---
 
 # 📚 Actualmente aprendiendo
+
+🌱 Mi objetivo es seguir fortaleciendo mis conocimientos en:
 
 - Apache Kafka
 - Terraform
@@ -132,35 +127,44 @@ Aplicaciones Backend y Full Stack utilizando Node.js, Python y bases de datos re
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mateo654-sg&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateo654-sg&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo654-sg&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo654-sg&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mateo654-sg&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🎯 Objetivos
-
-- 🚀 Diseñar plataformas de datos escalables.
-- ☁️ Especializarme en arquitecturas Cloud sobre AWS.
-- ⚙️ Dominar el procesamiento distribuido de datos.
-- 📊 Desarrollar soluciones analíticas para la toma de decisiones.
-- 🌎 Contribuir a proyectos Open Source relacionados con Data Engineering.
-
----
-
 # 🤝 Conecta conmigo
 
-📧 **Correo:** escotiya102@gmail.com
+<p align="center">
 
-💼 **LinkedIn:**  
-www.linkedin.com/in/mateo-rico
+<a href="https://www.linkedin.com/in/mateo-rico">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:escotiya102@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-### *"Los datos por sí solos no generan valor; la ingeniería y el análisis son quienes los convierten en conocimiento."*
+<img src="https://komarev.com/ghpvc/?username=Mateo654-sg&style=for-the-badge&color=blue"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ *"Los datos cuentan historias; la ingeniería permite escucharlas."*
 
 </p>
