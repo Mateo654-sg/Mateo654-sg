@@ -8,7 +8,6 @@
 
 <img src="https://img.shields.io/badge/Data%20Engineering-0052CC?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-F28C28?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Open%20to%20Work-28A745?style=for-the-badge"/>
 
 </p>
